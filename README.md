@@ -1,15 +1,19 @@
-## CHESSBOARD
+# Chessboard Project
 
-Ini adalah project pertama saya membuat papan catur menggunakan HTML dan menggunakan atribut pada tag table
-project dasar ini semoga bisa berkembang di kemudian hari dengan ilmu yang saya dapatkan nantinya step by step
+Proyek ini adalah sebuah **papan catur sederhana** yang dibuat menggunakan **HTML** murni.  
+Tujuan dari proyek ini adalah untuk memvisualisasikan papan catur secara statis menggunakan HTML.
 
+## Teknologi yang Digunakan
+- **HTML5**: Untuk membangun struktur papan catur.
+- **Node Modules** (Dev Tools): Untuk menjalankan **Live Server** (melihat perubahan secara langsung).
+- **Live Server**: Untuk mengembangkan secara lokal dengan hot reload.
 
-## DOKUMENTASI
+> **Catatan**: Tidak ada JavaScript atau CSS eksternal yang digunakan pada tahap ini. Semua dibuat menggunakan HTML.
 
-Untuk menjalankan program ini, ada beberapa yang harus di siapkan
-1. install npm dengan (npm init -y)
-1. Membuat kodingan kita muncul di browser dengan install (npm i -D live-server)
-1. Kemudian ubah scrip pada package.json
-1. Menjadi "dev" :"live-server"
-1. Barulah pada terminal masukkan "npm run dev
-1. maka anda akan melihat hasil kodingan anda pada web browser
+## Cara Menjalankan
+
+1. Pastikan kamu sudah menginstall **Node.js**.
+2. Install Live Server secara global atau gunakan dari VSCode Extension.
+3. Buka terminal di folder project, lalu jalankan:
+   ```bash
+   npx live-server
