@@ -1,19 +1,36 @@
-# Chessboard Project
+## chess board project using basic HTML
 
-Proyek ini adalah sebuah **papan catur sederhana** yang dibuat menggunakan **HTML** murni.  
-Tujuan dari proyek ini adalah untuk memvisualisasikan papan catur secara statis menggunakan HTML.
+This repository contains simple HTML projects for creating chessboard implementations, focused on documenting the basic HTML structure for future development. The project aims to learn the use of basic tags and attributes in building HTML structures.
 
-## Teknologi yang Digunakan
-- **HTML5**: Untuk membangun struktur papan catur.
-- **Node Modules** ("Dev": "live-server"): Untuk menjalankan **Live Server** (melihat perubahan secara langsung).
-- **Live Server**: Untuk mengembangkan secara lokal dengan hot reload.
+## Preview
 
-> **Catatan**: Tidak ada JavaScript atau CSS eksternal yang digunakan pada tahap ini. Semua dibuat menggunakan HTML5.
+![Preview](image.png)
 
-## Cara Menjalankan
+## How to Run this project
 
-1. Pastikan kamu sudah menginstall **Node.js**. (npm init -y)
-2. Install Live Server secara global atau gunakan dari VSCode Extension (npm i -D live-server)
-3. Buka terminal di folder project, lalu jalankan:
-   ```bash
-   npm run dev
+1. Clone this project
+```
+git clone https://github.com/Dwaysetya/fgo24-html-chessboard.git
+```
+2. Enter the project firectory
+```
+cd directory-name
+```
+3. Install the Depedencies
+```
+npm install
+```
+4. run the project
+```
+npm run dev
+```
+5. Project will running on http://localhost:8080
+
+## Depedencies
+
+This project requires Node.js to run, so make sure Node.js is installed on your device.
+- live-server: used to document an HTTP server locally, easing the development and testing process.
+
+## Basic Information
+
+This project was developed as part of the learning program at Kodacademy Bootcamp Batch 24, which was carried out by Dwi Setyabudi in order to deepen the understanding and technical skills acquired during the training.

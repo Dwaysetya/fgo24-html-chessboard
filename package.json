@@ -6,10 +6,18 @@
     "dev": "live-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dway",
   "license": "ISC",
-  "description": "",
+  "description": "This repository contains simple HTML projects for creating chessboard implementations, focused on documenting the basic HTML structure for future development. The project aims to learn the use of basic tags and attributes in building HTML structures.",
   "devDependencies": {
     "live-server": "^1.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwaysetya/fgo24-html-chessboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dwaysetya/fgo24-html-chessboard/issues"
+  },
+  "homepage": "https://github.com/Dwaysetya/fgo24-html-chessboard#readme"
 }
