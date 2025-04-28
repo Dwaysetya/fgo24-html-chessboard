@@ -1,4 +1,4 @@
-## chess board project using basic HTML
+## Chess board project using basic HTML
 
 This repository contains simple HTML projects for creating chessboard implementations, focused on documenting the basic HTML structure for future development. The project aims to learn the use of basic tags and attributes in building HTML structures.
 
